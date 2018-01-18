@@ -4,4 +4,7 @@ When would you want to use a remote repository rather than keeping all your work
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 -- fork: clone someone's repository to you got account
 --clone: clone a repository to local account
--- branches: split master to a different line 
+-- branches: split master to a different line
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-- so that we can easily update master with updates in the remote
